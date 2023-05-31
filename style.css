@@ -1,0 +1,7 @@
+header, 
+footer{
+    background-image: linear-gradient(to left, rgb(191, 137, 37), orange);
+}
+header h1, .nav-link{
+    color: #fff;
+}
